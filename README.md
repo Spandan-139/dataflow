@@ -1,3 +1,5 @@
+[![Live Demo](https://img.shields.io/badge/🤗%20Live%20Demo-DataFlow-blue)](https://huggingface.co/spaces/Spandan-139/dataflow)
+
 # 🔄 DataFlow
 
 A production-style ELT Analytics Platform built on GitHub Archive data with medallion architecture, Prefect orchestration, and DuckDB warehouse.
