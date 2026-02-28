@@ -1,4 +1,5 @@
 [![Live Demo](https://img.shields.io/badge/🤗%20Live%20Demo-DataFlow-blue)](https://huggingface.co/spaces/Spandan-139/dataflow)
+[![CI](https://github.com/Spandan-139/dataflow/actions/workflows/ci.yml/badge.svg)](https://github.com/Spandan-139/dataflow/actions)
 
 # 🔄 DataFlow
 
